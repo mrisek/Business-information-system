@@ -1,0 +1,75 @@
+﻿@model WebAplikacijaMvc.Models.Dnevnica
+@{
+    ViewBag.Title = "Unos dnevnice";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+<p>Popunite sva polja i pritisnite tipku "Unesi dnevnicu".</p>
+
+<div class="row">
+    <div class="col-md-8">
+        <section id="loginForm">
+            @using (Html.BeginForm("UnosPodataka", "Korisnik", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+            {
+                <hr />
+                @Html.ValidationSummary()
+
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Polaziste, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.Polaziste, new { @class = "form-control" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Odrediste, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.Odrediste, new { @class = "form-control" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(m => m.VrijemePolaska, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.VrijemePolaska, new { @class = "form-control" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(m => m.VrijemeDolaska, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.VrijemeDolaska, new { @class = "form-control datepicker" })
+                    </div>
+                </div>
+
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Unesi podatke" class="btn btn-default" id="btnSubmit" />
+                    </div>
+                </div>
+
+
+            }
+        </section>
+    </div>
+    <div class="col-md-4">
+        <section id="socialLoginForm">
+            <p>
+                <h3>Tehnologije</h3>
+                <ul>
+                    <li>MVC 5 aplikacija - Registrirani korisnici unose dnevnice u bazu podataka</li>
+                    <li>Bootstrap - Framework za oblikovanje predloška s podrškom za CSS3 i responzivni dizajn</li>
+                    <li>Microsoft Azure Web App - Deployment web aplikacije</li>
+                    <li>Microsoft Azure SQL Database - Baza podataka (registracija korisnika, login, korisnički podaci, dnevnice)</li>
+                    <li>Office 365 - Slanje maila ukoliko korisnik nije unio dnevnicu u bazu</li>
+                    <li>Azure Scheduler - Job za dnevnu provjeru pristiglih dnevnica</li>
+                </ul>
+            </p>
+        </section>
+    </div>
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

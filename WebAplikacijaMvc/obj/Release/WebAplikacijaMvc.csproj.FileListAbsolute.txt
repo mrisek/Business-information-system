@@ -1,0 +1,116 @@
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\WebAplikacijaMvc.dll.config
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\WebAplikacijaMvc.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\WebAplikacijaMvc.pdb
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Antlr3.Runtime.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\EntityFramework.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\EntityFramework.SqlServer.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Newtonsoft.Json.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Owin.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.Helpers.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.Mvc.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.Optimization.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.Razor.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.WebPages.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\WebGrease.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.Helpers.xml
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.Mvc.xml
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.Optimization.xml
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.Razor.xml
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.WebPages.xml
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Newtonsoft.Json.xml
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Antlr3.Runtime.pdb
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\EntityFramework.xml
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\EntityFramework.SqlServer.xml
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.xml
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.xml
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\obj\Release\WebAplikacijaMvc.csprojResolveAssemblyReference.cache
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\obj\Release\WebAplikacijaMvc.dll
+C:\Users\mrise_000\documents\visual studio 2013\Projects\WebAplikacijaMvc\WebAplikacijaMvc\obj\Release\WebAplikacijaMvc.pdb
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\WebAplikacijaMvc.dll.config
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\WebAplikacijaMvc.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\WebAplikacijaMvc.pdb
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Antlr3.Runtime.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\EntityFramework.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\EntityFramework.SqlServer.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Newtonsoft.Json.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Owin.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.Helpers.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.Mvc.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.Optimization.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.Razor.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.WebPages.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\WebGrease.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.Helpers.xml
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.Mvc.xml
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.Optimization.xml
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.Razor.xml
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.WebPages.xml
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Newtonsoft.Json.xml
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Antlr3.Runtime.pdb
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\EntityFramework.xml
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\EntityFramework.SqlServer.xml
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.xml
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.xml
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\obj\Release\WebAplikacijaMvc.csprojResolveAssemblyReference.cache
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\obj\Release\WebAplikacijaMvc.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\obj\Release\WebAplikacijaMvc.pdb
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Exchange.WebServices.dll
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Exchange.WebServices.pdb
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Exchange.WebServices.xml
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\mrise_000\Desktop\WebAplikacijaMvc\WebAplikacijaMvc\bin\Microsoft.Exchange.WebServices.Auth.xml
